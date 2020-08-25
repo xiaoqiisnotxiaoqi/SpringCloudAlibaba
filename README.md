@@ -15,4 +15,4 @@ Spring Cloud Alibaba 项目搭建
     修改 hello-spring-cloud-alibaba-consumer-feign 实现 Nacos提供的 分布式配置中心功能 和多环境配置
         
 ## hello-spring-cloud-alibaba-consumer-feign-config-sentinel
-    修改 hello-spring-cloud-alibaba-consumer-feign-config 集成Alibaba Sentinel 实现 服务熔断 以及 
+    修改 hello-spring-cloud-alibaba-consumer-feign-config 集成Alibaba Sentinel 实现 服务熔断 以及 在Sentinel 控制台注册服务。
