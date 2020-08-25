@@ -10,7 +10,7 @@
         <version>0.0.1-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
-
+ 
     <artifactId>hello-spring-cloud-alibaba-consumer-feign</artifactId>
     <packaging>jar</packaging>
     <url>http://www.qinjb.com</url>
